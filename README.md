@@ -1,5 +1,7 @@
 # QualiFi Tenant Isolation Assurance
 
+> **Playbook status: in progress.** This is a hands-on playbook using synthetic Tenant A and Tenant B records. I'm still adding boundary cases; a passing local suite only supports the scenarios described here, not a production security certification.
+
 [![CI](https://github.com/OperaAxe/qualifi-tenant-isolation-assurance/actions/workflows/ci.yml/badge.svg)](https://github.com/OperaAxe/qualifi-tenant-isolation-assurance/actions/workflows/ci.yml)
 
 ## The short version
